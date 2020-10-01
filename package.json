@@ -1,0 +1,11 @@
+{
+  "name": "electron-basic-project",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^10.1.3"
+  }
+}
